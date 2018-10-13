@@ -1,4 +1,5 @@
-# Microsoft Custom Vision and Azure Notebooks - Deep Learning: using Fashion MNIST Dataset
+# Workshop at Tech(k)now day 
+Microsoft Custom Vision and Azure Notebooks - Deep Learning: using Fashion MNIST Dataset
 
 > “I need to sort out my wardrobe” 
 
